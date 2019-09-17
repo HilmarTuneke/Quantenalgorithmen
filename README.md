@@ -9,6 +9,6 @@ These examples work with the [Microsoft Quantum Development Kit](https://docs.mi
 1. VS Code Extension for C#: https://marketplace.visualstudio.com/items?itemName=ms-vscode.csharp
 1. VS Code Extension for Q#: https://marketplace.visualstudio.com/items?itemName=quantum.quantum-devkit-vscode
 
-## 1. Intall example code ##
+## 2. Install example code ##
 * Either clone this repository from github using git
 * or download [this repository as zip file](https://github.com/HilmarTuneke/Quantenalgorithmen/archive/master.zip) and extract it
